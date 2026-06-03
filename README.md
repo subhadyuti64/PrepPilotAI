@@ -5,10 +5,10 @@ PrepPilot AI is an end-to-end AI-powered interview preparation platform that hel
 ---
 # 🚀 Live Demo
 
-Frontend
+Frontend:
 https://preppilotai-j5b5us3tynu4kzhddrenwr.streamlit.app/
 
-Backend API
+Backend API:
 https://preppilotai.onrender.com
 
 ## 🌟 Features
